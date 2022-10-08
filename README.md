@@ -1,8 +1,10 @@
 # 156-Hours-Lip-Sync-Multimodal-Video-Data
-https://www.datatang.ai/datasets/996
+
 
 ## Description
 Voice and matching lip language video filmed with 250 people by multi-devices simultaneously, aligned precisely by pulse signal, with high accuracy. It can be used in multi-modal learning algorithms research in speech and image fields.
+
+For more details, please refer to the link: https://bit.ly/3C9ETVd
 
 ## Format
 Video: mp4 format, 1,280*720, Audio: wav format, 16HZ, 16bit  mono
@@ -33,3 +35,6 @@ Lip Language recognization
 
 ## Accuracy
 Accuracy of sentence should not below 95%
+
+# Licensing Information
+Commerical License: https://drive.google.com/file/d/1saDCPm74D4UWfBL17VbkTsZLGfpOQj1J/view?usp=sharing
