@@ -4,7 +4,8 @@
 ## Description
 Voice and matching lip language video filmed with 250 people by multi-devices simultaneously, aligned precisely by pulse signal, with high accuracy. It can be used in multi-modal learning algorithms research in speech and image fields.
 
-For more details, please refer to the link: https://bit.ly/3C9ETVd
+For more details, please refer to the link: https://www.nexdata.ai/datasets/996?source=Github
+
 
 ## Format
 Video: mp4 format, 1,280*720, Audio: wav format, 16HZ, 16bit  mono
